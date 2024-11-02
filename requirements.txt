@@ -1,0 +1,12 @@
+# Primary libraries for data analysis and manipulation
+numpy==1.26.4
+pandas==2.2.3
+
+# Visualization libraries
+altair==4.2.2
+plotly==5.10.0
+streamlit==1.12.2
+
+# Excel file handling libraries
+openpyxl==3.0.10
+XlsxWriter==3.0.3
